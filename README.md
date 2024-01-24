@@ -1,5 +1,9 @@
 # This project is based on the work of Bret Fisher (https://github.com/BretFisher).
 
+## Project Modifications
+
+This project has been modified to include my learning process that based on the online course of Bret Fisher which I attended.
+
 # Instructions for Assignment
 
 [Build Your Own Dockerfile and Run Containers From It](https://www.udemy.com/course/docker-mastery/learn/lecture/6806638)
